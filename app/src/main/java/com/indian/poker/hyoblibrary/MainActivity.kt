@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
 
         val textView: TextView = findViewById(R.id.hello)
         textView.text = HyobCore.core()
+
     }
 }
