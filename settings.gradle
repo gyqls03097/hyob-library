@@ -1,0 +1,3 @@
+rootProject.name = "HyobLibrary"
+include ':app'
+include ':common'
